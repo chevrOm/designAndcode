@@ -28,3 +28,11 @@ features===========
 notas: usar gitignore.io para gerar opcoes do .gitignore
 Importante: usando github desktop para acompanhar o tutorial. Não estou usando
 git via Linux Subsystem.
+
+============================================
+Dependencias principais e para se atualizar no package.json
+BrowserSync ^2.8.0
+gulp        ^3.9.0
+gulp-Autoprefixer ^2.3.1
+gulp-Jade   ^1.0.1
+gulp-Sass   ^2.0.4
