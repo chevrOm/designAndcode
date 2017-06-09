@@ -1,0 +1,30 @@
+#tools======================================
+Jekyll
+Jade
+Sass
+Autoprefixer
+BrowserSync
+
+==============notas
+--ideias importantes
+  articles
+  notes
+  work
+  biography
+  
+features===========
+
+  - about
+  - youtube
+  - montoring
+  - articles
+  - vines
+  - design
+  - notes
+  - podcasts
+  - contact
+============================================
+
+notas: usar gitignore.io para gerar opcoes do .gitignore
+Importante: usando github desktop para acompanhar o tutorial. Não estou usando
+git via Linux Subsystem.
